@@ -45,7 +45,7 @@ Version:	3.0.2
 Release:	14
 License:	Apache License
 Group:		Development/Java
-Url:		http://mx4j.sourceforge.net/
+Url:		https://mx4j.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/mx4j/MX4J%20Source/3.0.2/mx4j-3.0.2-src.tar.gz
 Source1:	%{name}-build.policy
 Source2:	CatalogManager.properties
